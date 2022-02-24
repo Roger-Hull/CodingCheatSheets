@@ -7,3 +7,5 @@ print("Hello World")
 <hr />
 
 *I live in Rossland, BC*
+
+![](https://github.com/Roger-Hull/CodingCheatSheets/blob/main/rossland.jpg?raw=true)
